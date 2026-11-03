@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Soy Ingeniero de Telecomunicaciones que he desarrollado mi carrera en el campo de la docencia e investigación a nivel universitario. Actualmente he dirigido mi interés al campo del desarrollo Web de aplicaciones Full Stack.
+Domino diversos lenguajes de programación, como BASIC, FORTRAN, C, C++, Ada, Java.
+En el presente he alcanzado también buen nivel en HTML, CSS, JavaScript, SQL y frameworks como React o Angular y me propongo desarrollarlos en el presente curso.
